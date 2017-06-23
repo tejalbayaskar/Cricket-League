@@ -1,0 +1,80 @@
+nav ul, nav ol {
+    list-style: outside none none;
+}
+    margin-bottom: 0px;
+}
+ol, ul, li {
+    list-style: outside none none;
+}
+footer.footerGlobal .footerContent .five-col__block .five-col__item h3 {
+    font-size: 14px;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.wrapper {
+    margin: 0px auto;
+    position: relative;
+    width: 980px;
+    max-width: 100%;
+    padding: 0px;
+}
+footer.footerGlobal .footerContent {
+    clear: both;
+}
+footer.footerGlobal {
+    width: 100%;
+    max-width: 100%;
+    font-size: 14px;
+    color: #FFF;
+    clear: both;
+    overflow: hidden;
+background-color: #081725;
+    position: relative;
+}
+footer.footerGlobal .footerContent .five-col__block {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    display: block;
+    padding: 40px 0px;
+}
+footer.footerGlobal .footerContent .five-col__block .five-col__item {
+    float: left;
+    width: 20%;
+    padding-right: 2%;
+}
+
+/*article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+* {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+body {
+    font-family: "Open Sans",sans-serif;
+    color: #333;
+}
+body {
+    font-size: 16px;
+}
+body {
+    color: #222;
+    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.5;
+    cursor: auto;
+}
+html, body {
+    font-size: 100%;
+}
+html, button, input, select, textarea {
+    font-family: sans-serif;
+}
+html {
+    font-size: 100%;
+}*/
